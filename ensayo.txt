@@ -1,0 +1,158 @@
+
+Universidad Politécnica de Yucatán
+Digital Economy Unit 1 Task 1
+Professor: Juan Vazquez
+Team:
+Ariadna Elizabeth Moo Sosa
+Mariely del Rosario Nieves González
+Lisette Ruiz Peña
+Data Engineering 9A
+September 12,2021
+
+
+
+
+
+
+Digital Economy historical context. 
+ 
+First, it is important to understand that digital economy is known as an activity of economy that results from data created by online connections among many of the followers’ concepts: data, people, devices, businesses, processes, among others. The expansion of this topic offers a variety of economic and informational opportunities. Digital data can be also used for development purposes and to solve societal problems, including those related to the OSD. 
+It is worth mentioning that the development of the digital economy had its beginnings with the commercial launch and massification of the Internet evolved from the 1990s. An interesting fact is that this transformation began to accelerate during the 21st century, this happened due to the focus on the impact of the Internet on the economy, thanks to the increase in access to the Internet, the processing and storage capacity of computers.  
+There are three key essential elements that make up the digital economy, let's take a look at them:  
+1.	Digital infrastructure such as hardware, connection networks, software, platforms, etc.  
+2.	Digital processes of companies.  
+3.	Digital commerce: the sale of goods and services using partially or completely the internet.  
+In addition, it is significant to note that this term is contemplated and applied in various branches of technology such as the following: artificial intelligence, the Internet of things, augmented and virtual reality, cloud computing, blockchain, robotics and autonomous vehicles.  
+On the other hand, major European countries such as Germany, Austria, France, and the Scandinavian countries, as well as strong Japan in Asia, are failing to keep up with those countries that continue to invest in their digital economies.  
+This concept is indispensable worldwide since with this tool we could more economically estimate the value of companies; In other words, some global digital platforms have achieved very strong market positions in certain areas. For example, Google accounts for about 90% of the Internet search market. Facebook accounts for two-thirds of the global social media market and is the leading social media platform in more than 90% of the world's economies. 
+
+
+
+
+Information technology in economic crises  
+ 
+Information technology has already worked radical changes in world society, but we have barely begun to feel the transformational consequences of the newest developments due to economic crises. For example, the covid 19 has impacted in economic crises then returns are always uncertain and long term in most of the technological companies. 
+Economic crises cause that many companies to reduce their investment. This has been confirmed by the 2008 financial crisis, which has substantially reduced the willingness of firms to invest in innovation.  
+As we know a consequence of economic crises have causes that companies in the sector of information technology work with sustainability as well. Therefore, digital technologies foster ecological innovations that contribute to sustainable development by reducing environmental impacts and optimizing resource use. Therefore, digitalization has both positive and negative impacts on the environment. A good example of that is the fifth generation of mobile networks (5G) will be disruptive to industrial organization and production models because of its technical characteristics (higher transmission speeds, of up to 20 Gbps), ultra-reliable low latency (less than a millisecond, increased by network security, massive machine type communications and enhanced device energy efficiency.  
+In addition, the information technology combined with digital transformation has allowed a significant impact but still are required large investments. For example, the deployment of 5G technology requires the installation of a denser network with greater capillarity.  
+Another point are cloud services which have become dominant as drivers of the digital transformation. The cloud services provide flexible information technology resources that create conditions for transformed business models and service provision, marketing processes and easy experimentation with new services without the need for new information technology resources, as well as offering greater cybersecurity. Governments and companies have slowly adopted the cloud in their operations, but this trend has been accelerated by physical distancing measures. 
+
+
+
+ 
+Industry 4.0 and priors 
+
+Industry 4.0 has been a continuous revolution in recent years, however, since decades before ours an improvement in the economy and communication between all countries was sought, for this reason, in recent years there were exactly three previous industries focused on the economy, in which each has its own contribution. Based on this, the industry 1.0 occurred between the 80's and 90's in Great Britain and European countries, managed to give a new vision in different sectors such as trade, agriculture, and labor, giving way to the innovation of industries focused on textiles and transport, to finally obtain a social and economic transformation that led to capitalism, continuously obtained the industry 2.0 which began in the 90's in countries such as the United States, Japan, and Germany, where capitalism was the main basis for social and economic approach, thus obtaining scientific discoveries among the most noted is that electricity and oil (petroleum) would be the new sources of energy and finally obtained the industry 3.0 that was part to generate the industry we know today, happened at the end of the 90's, its contribution was the development of computer systems and new information and communication technologies, making the adaptation of digital technology is the basis of the companies leaving behind the analog technology, this resulted in improving the economy as the processes for doing business between countries would become easier. Finally, it could be said that the first three industries left us the implementation of different machines for industrial or agricultural activities for workers to save time and forces, electricity as we know it today and the advancement of information technology to give entry to the evolution of information technology or better called industry 4.0. 
+Industry 4. 0 was named by Germany in April 2013, it is characterized by the use of certain approaches such as robotics, predictive analytics, artificial intelligence, nanotechnology, IoT and Big Data to obtain interconnectivity, automation, machine learning and real-time data in certain areas such as commerce or science, an example of this are the digitally adapted machines in topography, where currently it is no longer necessary to make measurements, the machine and the program gives you the measurements in that way the works are done in less time but at the same cost. It is considered that industry 4.0 has as main features the ability to have information in a fast way, continuous analysis of data based on historical data, use of machines, adaptability to any situation and communication, in addition some relevant applications that have been given lately are digital platforms, the 4G and 5G network, artificial intelligence, between others. 
+Finally, in the economy had a global impact, which has affected more in the adaptation of companies when making the decision to make the innovation to use the approaches offered by industry 4.0, as it would be affecting the new forms of employment, would have to make more hires and some changes in the work area and the adaptation of employees in the use of technologies especially in employees with advanced age, however if companies manage to get ahead, the industry offers several advantages such as obtaining customer segmentation to have an increase in revenue, for this reason the industry 4. 0 is considered the most relevant economic industry because we move from physical changes to digital changes, however it also involves too many changes and adaptation by people in different factors such as the economy, work, society and even politics or science, as well as the effort to be considered for environmental protection against pollution that is generated. 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Next Revolution in production 
+
+It is relevant to mention that Industry 5.0 is not far away as we could thing. It is happening since principal, global, and international companies are already working on it, applying technology to take more advantage for all, such as: Artificial Intelligence, Internet of things, Big Data, Automatization, cyber security, among others. On the other hand, it is important to highlight that the global economy is involved in different sectors, however the most encompassing is the digital sector, nowadays economy is digital, giving way to high-speed networks, IoT, interconnectivity, cloud computing, digital platforms, and constant data generation. 
+We can consider that markets would be becoming bilateral, i.e., work through platforms, That is the case of Facebook when promoting certain brands; another area that would be changing is the new transport generation and new business models implemented in that area, likewise trade will be even more affected in a good way to be more accessible and faster sale and purchase of products making it easier to facilitate the intelligent development of enterprises, as well as flexibility and adaptability of production, however based on the research source the most noticeable transformation are the business models related to the IoT. So, in the end, it is expected that the new era will drastically change the way people live, making them more comfortable, accessible, and adaptable, as well as generating excess data.  
+  
+
+
+
+
+
+
+QUESTIONS
+1.	What is Digital Economy?
+R: An activity of economy that results from data created by online connections among many of the followers’ concepts: data, people, devices, businesses, processes, among others.
+
+2.	Which are the essential keys that digital economy is conformed?
+R: Digital infrastructure, digital processes of companies and digital commerce.
+
+3.	Mention some examples of branches where the digital economy can be applied:
+R: Artificial intelligence, the Internet of things, augmented and virtual reality, cloud computing, blockchain, robotics and autonomous vehicles. 
+
+4.	Why is digital economy is important?
+R: This response is highly variable because its greatest importance is the impact is positive due to the significant information that it provides us through digital platforms.
+
+5.	When and where did Industry 1.0 occur?
+R: Industry 1.0 occurred between the 80's and 90's in Great Britain and European countries.
+
+
+6.	What was the main discovery of Industry 2.0?
+R: The discovery was based on the fact that electricity and oil would be the new sources of energy.
+
+7.	What was the contribution of industry 3.0?
+R: Its contribution was the development of computer systems and new information and communication technologies.
+
+8.	What characterizes Industry 4.0?
+R: It is characterized using certain approaches such as robotics, predictive analytics, artificial intelligence, nanotechnology, IoT and Bg Data to obtain interconnectivity, automation, machine learning and real-time data in certain areas such as commerce or science.
+
+9.	Mention two applications of Industry 4.0.
+R: Digital platforms and artificial intelligence.
+
+10.	Whys sustainability is important to work with information technology?
+R: Because without intelligence sustainability the companies are using more resources.
+
+11.	Give an application of information technology
+R: Networks 
+
+12.	Which element have become as a driver in information technology?
+R: Cloud services
+
+13.	What is a consequence of economic crises in companies in the sector of information technology?
+R: work with sustainability as well.
+
+14. What is negative consequence of the information technology combined with digital transformation?
+R: That are required large investments
+
+        15. What impacts in economic crises nowadays?
+ R: the covid 19 has impacted in economic crises then returns are always uncertain and    long term in information technology companies. 
+
+16. What type of economy is currently managed?
+    R: Digital Economy 
+
+17. What is the most notorious transformation nowadays?
+R: The transformation of business models related to the IoT area.
+
+18. What is expecting from the new era?
+R: That drastically changes the way people live, making them more comfortable, accessible and adaptable, as well as generating excess data.
+19. What could you say that is the most surprising aspect about Industry 4.0 and the new era? 
+R: The internet of things is a virtual world that will be going around the world because it will facilitate daily life.
+
+20. Currently, how can we appreciate the approach of Industry 5.0?
+R: It is mainly presented on international companies which are applying technology to take advantage, such as: Artificial Intelligence, Internet of things, Big Data, Automatization, cyber security, among others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCES
+
+[1]	     Actividadeseconomicas.org. 2021. Guía completa sobre la economía digital: qué es, características, ejemplos, importancia. [online] Available at: <https://www.actividadeseconomicas.org/2018/06/economia-digital.html> [Accessed 09 September 2021].
+[2]	     Unctad.org. 2021. [online] Available at: <https://unctad.org/system/files/official-document/der2019_overview_es.pdf> [Accessed 09 September 2021].	
+[3]	     Economiadigital.es. 2021. [online] Available at: <https://www.economiadigital.es/tecnologia/que-es-la-economia-digital-y-por-que-interesa-y-afecta-a-todos_20028029_102.html> [Accessed 09 September 2021].
+[4] Consequences of Industry 4.0 in Business and Economics, 2018. [online] Available at: 
+< (PDF) Consequences of Industry 4.0 in Business and Economics (researchgate.net) [Accessed 09 September 2021].
+
+[5] Directorate general for internal policies policy department a: economic and scientific policy industry 4, 2016. [online] Available at: <industry 4.0 (europa.eu)> [accessed 09 September 2021]
+
+[6] Digital technologies for a new future. [online] Available at: <https://www.cepal.org/sites/default/files/publication/files/46817/S2000960_en.pdf> [accessed 09 September 2021]
+[7]   La nueva revolucion digital [online] Avaliable at: <S1600780_es.pdf (cepal.org)> [accessed 10 September 2021]
+
